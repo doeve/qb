@@ -11,6 +11,6 @@ Usage:
 - you can access the web-app from the host PC using the address `http://localhost:8080`
 - you can access the web-app from the other devices using the PC's local address ex: `http://192.168.1.205`
 
-You can find a screenshoth here:
+You can find a screenshot here:
 
 ![image](https://github.com/doeve/qb/assets/76120007/035dc898-77dd-4d95-bdda-eb323af4f2fb)
